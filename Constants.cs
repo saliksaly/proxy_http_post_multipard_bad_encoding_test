@@ -2,6 +2,6 @@
 {
     public class Constants
     {
-        public const string PostmanEchoPost = "https://postman-echo.com/post";
+        public const string PostmanEchoPost = "http://localhost:5141/file";//"https://postman-echo.com/post";
     }
 }
